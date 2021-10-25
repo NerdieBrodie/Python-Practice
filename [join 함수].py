@@ -16,4 +16,3 @@ print(','.join(12345))  #integer는 string이 아니라서 안됨, iterable하�
 
 
 #String --> List는 split을 사용
-e
